@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibya kirti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer and learner from KIIT UNIVERSITY India</h3>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-man" width="400"/>
@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyakirti&show_icons=true&locale=en" alt="dibyakirti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyakirti&" alt="dibyakirti" /></p>
+
+
+
